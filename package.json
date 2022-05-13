@@ -4,6 +4,6 @@
     "description": "Railgun zksnark circuits",
     "private": true,
     "dependencies": {
-        "circomlib": "0.5.1"
+        "circomlib": "0.5.5"
     }
 }
